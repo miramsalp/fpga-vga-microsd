@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Ploy" Host="DESKTOP-BASFJI2" Pid="18388" HostCore="8" HostMemory="014966337536">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Ploy" Host="DESKTOP-BASFJI2" Pid="260" HostCore="8" HostMemory="014966337536">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Ploy" Host="DESKTOP-BASFJI2" Pid="18344" HostCore="8" HostMemory="014966337536">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Ploy" Host="DESKTOP-BASFJI2" Pid="2980" HostCore="8" HostMemory="014966337536">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Ploy" Host="DESKTOP-BASFJI2" Pid="19120" HostCore="8" HostMemory="014966337536">
+    </Process>
+</ProcessHandle>
