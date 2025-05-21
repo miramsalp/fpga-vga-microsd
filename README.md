@@ -31,4 +31,8 @@ Use the provided `bmptomem.py` script to convert 3 BMP images into a single memo
 ```bash
 python bmptomem.py image1.bmp image2.bmp image3.bmp -o all_image.mem
 
-![image](https://github.com/user-attachments/assets/09c9c56c-34a4-4324-a251-010a623e335b)
+## 🎞️ Demo
+
+This is showing how images change when toggling switches SW0 and SW1:
+
+![VGA Demo](./asset/demo.gif)
