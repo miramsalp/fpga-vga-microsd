@@ -5,7 +5,7 @@ This project demonstrates a simple **image switcher on a VGA display** using the
 ## Project Overview
 
 - Displays 3 images on a VGA monitor connected to Basys3.
-- Uses **VGA protocol** to output 320x240 image (or other resolution if modified).
+- Uses **VGA protocol** to output 160x120 image (or other resolution if modified).
 - Images are stored in BRAM as `.mem` format.
 - Input switches **SW0** and **SW1** are used to select which image to display.
 
@@ -30,3 +30,5 @@ Use the provided `bmptomem.py` script to convert 3 BMP images into a single memo
 
 ```bash
 python bmptomem.py image1.bmp image2.bmp image3.bmp -o all_image.mem
+
+![image](https://github.com/user-attachments/assets/09c9c56c-34a4-4324-a251-010a623e335b)
