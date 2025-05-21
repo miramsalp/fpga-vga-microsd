@@ -35,4 +35,4 @@ python bmptomem.py image1.bmp image2.bmp image3.bmp -o all_image.mem
 
 This is showing how images change when toggling switches SW0 and SW1:
 
-![VGA Demo](./asset/demo.gif)
+![VGA Demo](./asset/demo1.gif)
